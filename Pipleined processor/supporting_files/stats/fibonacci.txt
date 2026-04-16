@@ -1,0 +1,3 @@
+Number of cycles taken = 148
+Number of times OF stage is stalled = 34
+Number of times instruction on wrong branch path entered = 32
